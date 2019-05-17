@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Web JSP Example
+Implementation-Version: 1.0
+Built-By: jimmy
+Implementation-Vendor-Id: org.springframework.boot
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_131
+Main-Class: ${start-class}
+
